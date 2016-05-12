@@ -14,4 +14,4 @@ If you have tried it out, let me know. That is much appreciated!
 
 *Screenshot*
 
-![](https://github.com/mathijsco/SharePointLogViewer/resources/screenshot.png)
+![](https://raw.githubusercontent.com/mathijsco/SharePointLogViewer/master/resources/screenshot.png)
